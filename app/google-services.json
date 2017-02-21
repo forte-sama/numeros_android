@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034048893917",
+    "firebase_url": "https://numerologia-dominicana.firebaseio.com",
+    "project_id": "numerologia-dominicana",
+    "storage_bucket": "numerologia-dominicana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034048893917:android:5619387f4bbf9e88",
+        "android_client_info": {
+          "package_name": "com.example.nafl.numerologiadominicana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034048893917-06h6it17us01j7h6rmme5srr84jvtb7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nafl.numerologiadominicana",
+            "certificate_hash": "160a267ad8439fc11d9e42dd17d61fe62abf054d"
+          }
+        },
+        {
+          "client_id": "1034048893917-107co7nl0o6vcl2tsc67iovuqbrl5ko0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTR6L1IJ7qAc7LO99eAZQiPdthwRJ3Qo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034048893917-107co7nl0o6vcl2tsc67iovuqbrl5ko0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
