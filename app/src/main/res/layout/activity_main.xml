@@ -13,7 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Numerologia Dominicana" />
+        android:text="Numerologia Dominicana"
+        android:id="@+id/infoTextView" />
 
     <Button
         android:text="prueba2"
