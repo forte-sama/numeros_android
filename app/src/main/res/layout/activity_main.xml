@@ -17,7 +17,7 @@
         android:id="@+id/infoTextView" />
 
     <Button
-        android:text="prueba2"
+        android:text="Base del Dia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btBaseDia"
@@ -26,11 +26,20 @@
         android:layout_marginBottom="110dp" />
 
     <Button
-        android:text="Prueba1"
+        android:text="Numero del Dia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/btNumerosDia"
         android:layout_centerVertical="true"
         android:layout_alignLeft="@+id/btBaseDia"
         android:layout_alignStart="@+id/btBaseDia" />
+
+    <Button
+        android:text="Resultados del Dia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:id="@+id/button2Resultado" />
 </RelativeLayout>

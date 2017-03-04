@@ -19,6 +19,5 @@ public class MyFirebaseInstanceIdService extends FirebaseInstanceIdService {
 
         String token = FirebaseInstanceId.getInstance().getToken();
         Log.d(TAG,"Token: "+token);
-
     }
 }
